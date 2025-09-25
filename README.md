@@ -1,5 +1,5 @@
 # Setup Virtual Machine Template on Proxmox
-How to setup Ubuntu cloud VM template on proxmox
+How to setup Ubuntu cloud VM template on proxmox using a script.
 
 ## Create Script
 ```bash
