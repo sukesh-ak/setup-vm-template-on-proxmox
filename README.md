@@ -7,7 +7,7 @@ How to setup Ubuntu cloud VM template on proxmox using a script.
 $ nano create-cloud-vm-template.sh
 ```
 
-The script below downloads Ubuntu noble version 24. Other Ubuntu versions you can be found [here](https://cloud-images.ubuntu.com/)  
+The script below downloads Ubuntu noble version 24. Other Ubuntu versions can be found [here](https://cloud-images.ubuntu.com/)  
 _Default username and password is **`ubuntu`** and **`Cool123`**. `sshkey` parameter is optional._
 
 ```bash
